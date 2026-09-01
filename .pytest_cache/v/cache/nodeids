@@ -1,0 +1,14 @@
+[
+  "tests/test_batcher.py::test_batch_convert",
+  "tests/test_batcher.py::test_batch_empty_dir",
+  "tests/test_batcher.py::test_batch_parse",
+  "tests/test_converter.py::test_invalid_target",
+  "tests/test_converter.py::test_md_to_docx",
+  "tests/test_converter.py::test_md_to_html",
+  "tests/test_converter.py::test_md_to_txt_unsupported",
+  "tests/test_parser.py::test_parse_docx",
+  "tests/test_parser.py::test_parse_markdown",
+  "tests/test_parser.py::test_parse_missing_file",
+  "tests/test_parser.py::test_parse_txt",
+  "tests/test_parser.py::test_parse_unsupported_ext"
+]
